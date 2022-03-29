@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-28T23:02:37 IST" name="Default suite" finished-at="2022-03-28T23:03:44 IST" duration-ms="66912">
+    <groups>
+    </groups>
+    <test started-at="2022-03-28T23:02:37 IST" name="Default test" finished-at="2022-03-28T23:03:44 IST" duration-ms="66912">
+      <class name="PageObject.SmokeTest">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:02:37 IST" name="launchURL" finished-at="2022-03-28T23:02:44 IST" duration-ms="6599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="url()[pri:0, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:02:44 IST" name="url" finished-at="2022-03-28T23:03:00 IST" duration-ms="16289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="startbusinessPage()[pri:1, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:03:00 IST" name="startbusinessPage" finished-at="2022-03-28T23:03:08 IST" duration-ms="8346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbusinessPage -->
+        <test-method signature="businessPage()[pri:2, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:03:08 IST" name="businessPage" finished-at="2022-03-28T23:03:17 IST" duration-ms="8456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- businessPage -->
+        <test-method signature="questionsPage()[pri:3, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:03:17 IST" name="questionsPage" finished-at="2022-03-28T23:03:42 IST" duration-ms="25024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- questionsPage -->
+        <test-method signature="loginPage()[pri:4, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:03:42 IST" name="loginPage" finished-at="2022-03-28T23:03:44 IST" duration-ms="2099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="pageEnd()[pri:5, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:03:44 IST" name="pageEnd" finished-at="2022-03-28T23:03:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageEnd -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:PageObject.SmokeTest@2e222612]" started-at="2022-03-28T23:03:44 IST" name="closeBrowser" finished-at="2022-03-28T23:03:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- PageObject.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
